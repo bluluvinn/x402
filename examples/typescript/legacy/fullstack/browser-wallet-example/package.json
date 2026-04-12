@@ -11,13 +11,13 @@
     "preview": "cd client && pnpm preview"
   },
   "dependencies": {
-    "@hono/node-server": "^1.14.0",
+    "@hono/node-server": "^1.19.13",
     "dotenv": "^16.6.1",
-    "hono": "^4.6.17",
+    "hono": "^4.12.12",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "viem": "^2.31.3",
-    "axios": "^1.10.0",
+    "axios": "^1.15.0",
     "uuid": "^11.0.6",
     "x402-axios": "workspace:*",
     "x402-hono": "workspace:*"
@@ -31,6 +31,6 @@
     "concurrently": "^8.2.2",
     "tsx": "^4.19.2",
     "typescript": "^5.8.3",
-    "vite": "^6.3.5"
+    "vite": "^6.4.2"
   }
 } 
